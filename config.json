@@ -5,7 +5,7 @@
       "action": "add",
       "args": {
         "name": "antifilter",
-        "uri": "https://cdn.discordapp.com/attachments/870402346310586439/1276649079144976434/iplist_all.txt?ex=66ca4b9b&is=66c8fa1b&hm=e28e9d5f5fadf854bb2b4d8b69a922942f9eb6470177f9ee80a4d69fade6a21e&",
+        "uri": "https://antifilter.network/download/ipsum.lst",
         "onlyIPType": "ipv4"
       }
     },
